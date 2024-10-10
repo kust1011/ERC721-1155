@@ -1,0 +1,15 @@
+{
+  "name": "SHIELD",
+  "image": "ipfs://QmSEqsc95tCDYe14wxVMt1KQHNukBhjfMCbkX5UmmuVw5P/4.png",
+  "description": "This NFT collection is created by ABCLabs",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "SHIELD"
+    },
+    {
+      "trait_type": "creator",
+      "value": "TA Cupid"
+    }
+  ]
+}

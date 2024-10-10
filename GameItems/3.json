@@ -1,0 +1,15 @@
+{
+  "name": "SWORD",
+  "image": "ipfs://QmSEqsc95tCDYe14wxVMt1KQHNukBhjfMCbkX5UmmuVw5P/3.png",
+  "description": "This NFT collection is created by ABCLabs",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "SWORD"
+    },
+    {
+      "trait_type": "creator",
+      "value": "TA Cupid"
+    }
+  ]
+}
